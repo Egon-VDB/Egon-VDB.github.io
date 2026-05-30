@@ -7,7 +7,7 @@ description: "Winner of the DAE gamejam themed around Fragility, developed toget
 
 <div>
 <a href="https://youtu.be/AGGuqoxP1BE">
-    <img src="https://img.itch.zone/aW1nLzExMzQwMzg2LnBuZw==/original/5%2FHxPp.png" 
+    <img src="../../../../img/5_HxPp.png" 
     style="margin-left: 12.5%; width: 75%"/>
 </a>
 </div>
@@ -32,8 +32,8 @@ It had strong potential for a comedic tone while engaging the attention of the o
 
 ## Development
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 1rem; margin-bottom: 1.5rem;">
-    <img src="https://img.itch.zone/aW1hZ2UvMTkyODcyMC8xMTM0MDIzMi5wbmc=/original/Y%2FSKZe.png"/>
-    <img src="https://img.itch.zone/aW1hZ2UvMTkyODcyMC8xMTM0MDIyNi5wbmc=/original/HgHukY.png"/>
+    <img src="../../../../img/Y_SKZe.png" style="width: 90%;"/>
+    <img src="../../../../img/HgHukY.png" style="width: 90%;"/>
 </div>
 
 This wasn't my first project, but it certainly was one of the shortest ones. The game jam lasted only a week, and within that time we had to deliver a fully playable game. The clock was ticking from day one, yet the coordination within the team was incredible. Every day the game progressed further and further, soon turning from a fun prototype to a neatly polished tech demo.

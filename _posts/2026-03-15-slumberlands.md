@@ -10,9 +10,9 @@ The game follows Mina, a young heroine who battles nightmare creatures to restor
 
 ## My machine
 <div style="display: grid; grid-template-columns: 1fr 1fr; align-items: center; grid-gap: 1.5rem; margin-bottom: 1rem;">
-    <img src="https://usercontent.one/wp/www.mymachinevlaanderen.be/wp-content/uploads/2022/09/IMG_5002-2048x1536.jpg?media=1731595506" 
+    <img src="../../../../img/IMG_5002-2048x1536.jpg" 
     style="width: 100%"/>
-    <img src ="https://usercontent.one/wp/www.mymachinevlaanderen.be/wp-content/uploads/2022/09/hvh-tf-y-1160x1160.jpg?media=1731595506"
+    <img src ="../../../../img/hvh-tf-y-1160x1160.jpg"
     style="width: 100%">
 </div>
 
@@ -21,7 +21,7 @@ Several projects were pitched by third parties and students, with each student h
 The Independent Game Production student was a new addition, seeking to bring their unique skills into the group projects to elevate the quality. I used this opportunity to learn from curriculums outside my own. Although I had chosen Game Graphics Production as my major, I never wanted that to limit what I could learn from others.
 
 ## The core design challenge
-<img src="https://usercontent.one/wp/www.mymachinevlaanderen.be/wp-content/uploads/2022/09/drawings-kids-mymachine-2048x977.png?media=1731595506" 
+<img src="../../../../img/drawings-kids-mymachine-2048x977.png" 
 style="margin-left: 12.5%; width: 75%"/>
 
 “How do you turn unstructured imagination into a playable game?” That was one of the biggest questions we faced at the start of development. With 43 drawings ranging from candy islands to terrifying clowns, we had a huge amount of creative but chaotic material to work with.
@@ -32,11 +32,11 @@ One of our biggest challenges was finding the right balance between accessibilit
 
 ## My contributions
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; align-items: center; grid-gap: 1.5rem; margin-bottom: 1rem;">
-    <img src="https://usercontent.one/wp/www.mymachinevlaanderen.be/wp-content/uploads/2022/11/IslandOverview.jpg?media=1731595506" 
+    <img src="../../../../img/IslandOverview.jpg" 
     style="width: 100%"/>
-    <img src="https://usercontent.one/wp/www.mymachinevlaanderen.be/wp-content/uploads/2022/10/ConceptArt-1160x820.png?media=1731595506" 
+    <img src="../../../../img/ConceptArt-1160x820.png" 
     style="width: 100%"/>
-    <img src="https://img.itch.zone/aW1hZ2UvMTc2MTMxMi8xMDc2MDc5OS5wbmc=/original/a9FHi9.png" 
+    <img src="../../../../img/a9FHi9.png" 
     style="width: 100%"/>
 </div>
 
@@ -52,7 +52,7 @@ These contributions, combined with the environments created by my teammates and 
 
 ## Conclusion
 <a href="https://youtu.be/l3_uSAb8DKI">
-    <img src="https://usercontent.one/wp/www.mymachinevlaanderen.be/wp-content/uploads/2022/12/CoverArt_MyMachine_copy.jpg?media=1731595506" 
+    <img src="../../../../img/CoverArt_MyMachine_copy.jpg" 
     alt="Example of a boost particle effect" style="margin-left: 12.5%; width: 75%"/>
 </a>
 

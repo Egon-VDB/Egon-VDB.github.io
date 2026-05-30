@@ -16,7 +16,7 @@ Every year DAE selects one student project as the winner for an official Steam r
 The game is still available on [Itch.io][ITCH], making it easy to jump into a match with a friend using nothing more than two controllers and a competitive spirit.
 
 ## Finding the concept
-<img src="https://img.itch.zone/aW1nLzgzMjk1MDIuZ2lm/original/%2FOq4uO.gif" 
+<img src="../../../../img/Oq4uO.gif" 
 style="margin-left: 12.5%; width: 75%;;"/>
 
 When we started the project we didn't quite have an idea. It was up to us to come up with a unique game concept. We explored several ideas like a chasing game and a ghost game where you haunted fellow player. In the end, however, we went with our airship idea which proved to be a fun and engaging PvP game that allowed for creative visuals and gameplay.
@@ -25,9 +25,9 @@ The next step was creating a prototype. We weighed the pros and cons of Unity an
 
 ## Visual direction
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 1.5rem; margin-bottom: 1rem;">
-    <img src="https://img.itch.zone/aW1hZ2UvMTQwMTM0Ni85MDAyNzAyLmpwZw==/original/UG0r1i.jpg" 
+    <img src="../../../../img/UG0r1i.jpg" 
     style="width: 100%"/>
-    <img src="https://img.itch.zone/aW1hZ2UvMTQwMTM0Ni85MDAyNzAxLmpwZw==/original/XvH5mK.jpg" 
+    <img src="../../../../img/XvH5mK.jpg" 
     style="width: 100%"/>
 </div>
 
@@ -36,12 +36,12 @@ During the first week of development, we focused heavily on concept art and defi
 Once the visual language had been established, we divided responsibilities across the art team. Hanna focused on the airships, while Davide handled the environments and cloudscapes. I specialised in the game’s particle effects, creating the explosions, smoke, fire, and atmospheric effects that helped bring the chaotic aerial battles to life.
 
 ## My contributions
-<img src="https://img.itch.zone/aW1nLzg5NDY3NzIuZ2lm/original/nL28wh.gif" 
+<img src="../../../../img//nL28wh.gif" 
 alt="Example of a boost particle effect" style="margin-left: 5%; width: 90%"/>
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 1.5rem; margin-bottom: 1rem;">
-    <img src="https://img.itch.zone/aW1hZ2UvMTQwMTM0Ni85MDAyNzAwLmpwZw==/original/jW4xqE.jpg" 
+    <img src="../../../../img//jW4xqE.jpg" 
     style="width: 100%"/>
-    <img src="https://img.itch.zone/aW1hZ2UvMTQwMTM0Ni85MDAyNzAzLmpwZw==/original/iLuJXw.jpg" 
+    <img src="../../../../img//iLuJXw.jpg" 
     style="width: 100%"/>
 </div>
 
@@ -53,7 +53,7 @@ That warm atmosphere contrasted especially well with one of the game’s random 
 
 ## Conclusion
 <a href="https://youtu.be/0egSWWvtILA">
-    <img src="https://img.youtube.com/vi/0egSWWvtILA/maxresdefault.jpg" 
+    <img src="../../../../img//maxresdefault.jpg" 
     style="margin-left: 12.5%; width: 75%"/>
 </a>
 
