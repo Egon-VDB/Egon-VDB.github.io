@@ -8,6 +8,8 @@ Ironclad Arena is an online trading card game I developed as my final project at
 
 The project focused on building a game with online capabilities for players to build decks, collect cards and play against each other. How we implemented it was up to us, with a free choice in architecture and codebase.
 
+<img src="../../../../img/ironclade.png" style="width: 50%; margin-left: 25%">
+
 ## Research & planning
 I looked at multiple engines for the research, comparing visual fidelity, network support and technical capabilities. I went from the popular engines like Unreal to more obscure engines like LibGDX, selecting engines based on the card games they had. In the end Unity came out on top, its support for third party plugins and robust network tools sealing the deal.
 
@@ -20,6 +22,11 @@ The game is played on a battlefield consisting of four rows, with each player co
 
 To refine the gameplay loop, we first translated the entire system into a paper prototype. This served as a valuable playtesting phase, allowing us to evaluate the pacing of matches, identify which mechanics worked well, and determine how balanced certain effects felt in practice. The insights gathered from these sessions helped us improve overall gameplay experience.
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 0.5rem; justify-items: center; align-items: center; margin-bottom: 1rem;">
+    <img src="../../../../img/Ironjaw_Brawler.png" style="width: 80%;">
+    <img src="../../../../img/Leviathan_Gear_Colossus.png" style="width: 80%;">
+</div>
+
 ## Architecture & Gameplay Systems
 What makes this project stand out is the combined use of a custom .NET server which communicates with Unity clients. All the game logic is handled on this server as it runs multiple games simultaneously. To this end we wrote our own packet structure, making use of flags and bytes to relay data from card stats to attack targets, with ENet handling the connection logic. 
 
@@ -31,6 +38,11 @@ The Unity client itself contains no gameplay logic aside from calls to make and 
 Throughout the project I tirelessly worked every day to draw card after card, ensuring all 101 cards had a distinct appearance. This visual clarity enabled the gameplay loop to progress immensely faster for a smoother experience.
 
 It was important to ensure that cards were readable at a glance, with the player immediately recognizing the card type with its stats. To this end I designed unique card sleeves for the three types: minion, spell and hero. On top of that we added some quality of life to.
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 0.5rem; justify-items: center; align-items: center; margin-bottom: 1rem;">
+    <img src="../../../../img/Gearforge_Kinetic_Knight.png" style="width: 80%;">
+    <img src="../../../../img/Apex_Gear_Behemoth.png" style="width: 80%;">
+</div>
 
 ## Challenges & Conclusion
 This project was an amazing learning opportunity around netcode and game design, where I both had to tackle the challenge of balancing the mechanics and cards, while streamlining online communication to ensure a smooth and consistent game flow.
