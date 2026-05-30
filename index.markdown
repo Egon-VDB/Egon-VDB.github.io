@@ -21,7 +21,7 @@ This blog is where I document my projects, share interesting events I attend, an
 
 <ul style="list-style: none; display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem;">
     <li class="post-card" style="width: 42.5%;">
-        <a href="/blogs/2026/03/23/hack-the-future.html">
+        <a href="/blogs/2025/10/12/hack-the-future.html">
             <p post-title="">Hack the Future</p>
         </a>
     </li>
