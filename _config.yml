@@ -20,15 +20,14 @@
 
 show_excerpts: true
 title: Egon Van den Buys
-email: your-email@example.com
+email: egonvandenbuys@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my space to document my journey as a game artist and software engineer. 
-  Here, I write about the projects I create, the art I develop, 
-  and the events and experiences that inspire me along the way.
+  Here, I write about the projects I've made and the events I've attended.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Egon-VDB
-linkedin_username: Egon Van den Buys
+linkedin_username: egon-v-972490253
 
 # Build settings
 theme: minima
@@ -40,9 +39,6 @@ collections:
   - tech&meets
   - projects
   - art
-
-include:
-  - new_footer.html
 
 # Exclude from processing.
 # The following items will not be processed, by default.
