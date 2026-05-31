@@ -2,9 +2,10 @@
 layout: post
 title:  "Setup"
 date:   2026-05-05 09:56:00 +0200
-categories: posts
+categories: blogs
+description: A short explanation how I've created this site.
 ---
-If you've clicked on this article I imagine you're curious how I've set this all up. It's really quite simple and I'll gladly tell you the tech stack I've used.
+If you've clicked on this post I imagine you're curious how I've set this all up. It's really quite simple and I'll gladly tell you the tech stack I've used.
 
 I made this website using [Ruby][ruby-docs] in combination with [Jekyll][jekyll-docs]. Jekyll serves as a **static web generator** which allows me to write all my blog posts in **markdown** while Jekyll automatically converts my files into a fully functional blog.   
 Why did I pick Jekyll? Well it's quite simple, I've never used it before. I'm always trying to learn and I love trying out new tech stacks!
@@ -29,6 +30,8 @@ categories: 'category'
 Underneath that you are free to write to write whatever content you want for your post!
 
 The site itself is hosted using Github pages. This is done by making a repo named `<username>.github.io` so in my case it's `Egon-VDB.github.io`. Github recommends using Jekyll and the integration works quite seemlessly. Any updates I make to the repo will be reflected on the site itself.
+
+You can then go into the configuration of your repo and to the pages tab. In there you can choose to host it and which branch you wish to host. You can also assign it a custom domain.
 
 [ruby-docs]: https://www.ruby-lang.org/en/documentation/
 [jekyll-docs]: https://jekyllrb.com/docs/home
