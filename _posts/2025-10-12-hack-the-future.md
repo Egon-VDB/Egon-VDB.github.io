@@ -14,8 +14,8 @@ The event didn't just have programming however. Included was a free visit to the
 Hack the Future lasted from the morning, where the groups were divided and led to their respective rooms, to the evening, where we all ate a buffet of delicious food as the winners were announced. By the end we all took the train home as we discussed the challenges we all tackled.
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 1.5rem; align-items: center; margin-bottom: 1rem;">
-    <img src="https://www.hackthefuture.be/2025/assets/images/1.jpg">
-    <img src="https://www.hackthefuture.be/2025/assets/images/5.jpg">
+    <img src="../../../../img/1.jpg">
+    <img src="../../../../img/5.jpg">
 </div>
 
 ## The challenge
