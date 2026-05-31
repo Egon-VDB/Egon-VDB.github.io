@@ -3,6 +3,7 @@ layout: page
 title:  "About Me"
 permalink: /aboutme/
 ---
+My name is Egon Van den Buys and I am a full-stack software engineer & artist passionate about learning and developing my skills. I try to be open to many things and not focus on specific aspects of art & development, so that I am always a versatile artist & developer.
 
 ## Education
 I first started my higher education at [Digital Arts & Entertainment][DAE]. As someone with a fond love for all artistic endeavors, I signed up to follow the [Game Graphics Production][GGP] curriculum, and for those 3 exciting years I learned how to create several aspects of video game art. I've learned skills such as:
