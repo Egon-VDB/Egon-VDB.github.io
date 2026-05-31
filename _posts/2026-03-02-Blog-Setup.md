@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: post
 title:  "Setup"
 date:   2026-05-05 09:56:00 +0200
-permalink: /setup/
 categories: posts
 ---
 If you've clicked on this article I imagine you're curious how I've set this all up. It's really quite simple and I'll gladly tell you the tech stack I've used.
